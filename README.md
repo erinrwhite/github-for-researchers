@@ -36,6 +36,11 @@ There are project management features built in:
  - assign issues to people
  - track your progress by connecting an issue's resolution to a file revision
 
+examples of academics on github
+==
+ - [Kris Shaffer](https://github.com/kshaffer)
+ - [Matthew Reidsma](https://github.com/mreidsma)
+
 more
 ==
  - [ProfHacker: Resources for learning Git and GitHub](http://chronicle.com/blogs/profhacker/resources-for-learning-git-and-github/48285)

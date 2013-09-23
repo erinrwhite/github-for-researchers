@@ -13,14 +13,6 @@ There is a desktop client for [Mac](http://mac.github.com) or [Windows](http://w
 
 You can also just do everything from your web browser (including [zen writing mode](https://github.com/blog/1379-zen-writing-mode) which is pretty damn cool).
 
-public vs. private
------
-Any public repositories are free.
-
-Private repos are cheap.
-
-There are discounts, including [free private repos for educational users](https://github.com/edu).
-
 who it's for
 -----
 It's for people who...
@@ -35,6 +27,14 @@ There are project management features built in:
  - create issues (you can use this to create a [research to-do list](http://carlboettiger.info/2012/12/06/github-issues-tracker:-the-perfect-research-todo-list))
  - assign issues to people
  - track your progress by connecting an issue's resolution to a file revision
+
+public vs. private
+-----
+Any public repositories are free.
+
+Private repos are cheap.
+
+There are discounts, including [free private repos for educational users](https://github.com/edu).
 
 examples of academics on github
 -----

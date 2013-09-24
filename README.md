@@ -45,7 +45,7 @@ people:
  - [Konrad Lawson: notes, dissertation, presentations](https://github.com/kmlawson?tab=repositories)
  - [Lincoln Mullen: R scripts, syllabi, CV, ebook, dissertation](https://github.com/lmullen?tab=repositories)
  - [David Parry: syllabi](https://github.com/academicdave?tab=repositories)
- - [Eric Phetteplace: presentations, snippets, etc](https://github.com/phette23?tab=repositories)
+ - [Eric Phetteplace: presentations, research study, snippets](https://github.com/phette23?tab=repositories)
  - [Matthew Reidsma: articles, presentations](https://github.com/mreidsma?tab=repositories)
  - [Lisa Rhody: lesson plans](http://www.lisarhody.com/teaching-lda-with-the-topic-modeling-game/)
  - [Nick Ruest: conference notes](https://github.com/ruebot/conference-notes)

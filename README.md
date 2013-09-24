@@ -1,7 +1,7 @@
 github for researchers and writers
 ======================
 
-GitHub is a great tool for researchers. Here's why.
+GitHub is a great tool for researchers and writers. Here's why.
 
 what it is
 -----
@@ -35,6 +35,7 @@ public vs. private
 
 writers/academics on github
 -----
+ - [Loren Burton: CV, teaching materials](https://github.com/aguynamedloren?tab=repositories)
  - [GirlDevelopIt: curriculum](https://github.com/girldevelopit)
  - [John Fink: presentations](https://github.com/jbfink?tab=repositories)
  - [Konrad Lawson: notes, dissertation, presentations](https://github.com/kmlawson?tab=repositories)
@@ -52,6 +53,7 @@ more
 -----
  - [Quick, digestible GitHub for Academics presentation](http://kris.shaffermusic.com/githubforacademics/#/5) from Kris Shaffer. If you look at nothing else, look at this.
  - [GitHub for academics full blog post](http://blogs.lse.ac.uk/impactofsocialsciences/2013/06/04/github-for-academics/)
+ - [GitHub for writers](http://madebyloren.com/github-for-writers) Really nice overview from Loren Burton
  - [ProfHacker: Resources for learning Git and GitHub](http://chronicle.com/blogs/profhacker/resources-for-learning-git-and-github/48285)
  - [Other ProfHacker posts on GitHub](http://chronicle.com/blogs/profhacker/tag/github)
  

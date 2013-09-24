@@ -52,11 +52,12 @@ groups:
  - [GirlDevelopIt: curriculum](https://github.com/girldevelopit)
  - [Church music!](http://www.wired.com/wiredenterprise/2013/05/gregorian_github/)
 
-more
+more reading
 -----
  - [Quick, digestible GitHub for Academics presentation](http://kris.shaffermusic.com/githubforacademics/#/5) from Kris Shaffer. If you look at nothing else, look at this.
  - [GitHub for academics full blog post](http://blogs.lse.ac.uk/impactofsocialsciences/2013/06/04/github-for-academics/)
  - [GitHub for writers](http://madebyloren.com/github-for-writers) Really nice overview from Loren Burton
  - [ProfHacker: Resources for learning Git and GitHub](http://chronicle.com/blogs/profhacker/resources-for-learning-git-and-github/48285)
  - [Other ProfHacker posts on GitHub](http://chronicle.com/blogs/profhacker/tag/github)
+ - [David Parry: My new way of handling teaching materials](http://academhack.outsidethetext.com/home/2013/my-new-way-of-handling-teaching-materials/)
  

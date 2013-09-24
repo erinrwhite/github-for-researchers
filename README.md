@@ -53,6 +53,7 @@ people:
  - [Nick Ruest: conference notes](https://github.com/ruebot/conference-notes)
  - [Kris Shaffer: articles, presentations](https://github.com/kshaffer?tab=repositories)
  - [Audrey Watters: white papers, CV, guides, syllabi](https://github.com/audreywatters?tab=repositories)
+ - [Andromeda Yelton: conference organization, course materials](https://github.com/thatandromeda?tab=repositories)
 
 groups:
  - [GirlDevelopIt: curriculum](https://github.com/girldevelopit)

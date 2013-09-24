@@ -31,7 +31,11 @@ There are project management features built in:
 
 public vs. private
 -----
-[Repositories](https://help.github.com/articles/create-a-repo) ("repos") are collections of files. Any public repositories are free. Private repos are cheap. There are discounts and [free private repos for educational users](https://github.com/edu).
+[Repositories](https://help.github.com/articles/create-a-repo) ("repos") are collections of files. 
+
+Any public repositories are free. Private repos are cheap. There are discounts and [free private repos for educational users](https://github.com/edu).
+
+You can also [add a license](https://github.com/blog/1530-choosing-an-open-source-license) to your public content.
 
 writers/academics on github
 -----

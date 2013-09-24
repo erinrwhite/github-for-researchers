@@ -9,7 +9,7 @@ GitHub is a tool that helps you keep track of revisions in your files and share 
 
 It's not just for software development. GitHub can version just about any **type** of file - including text, LaTeX, [CSV](https://github.com/blog/1601-see-your-csvs) and [3D graphics](https://github.com/blog/1633-3d-file-diffs).
 
-There is a desktop client for [Mac](http://mac.github.com) or [Windows](http://windows.github.com) that you can use to manage your files.
+There is a desktop client for [Mac](http://mac.github.com) or [Windows](http://windows.github.com) that you can use to manage your files. There are also tools like [Flashbake](http://bitbucketlabs.net/flashbake/), which automates backup in the background, letting you use the editor of your choice.
 
 You can also just do everything from your web browser (including [zen writing mode](https://github.com/blog/1379-zen-writing-mode), which is pretty damn cool).
 

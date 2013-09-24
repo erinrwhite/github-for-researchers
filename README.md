@@ -23,7 +23,7 @@ It's for people who...
 
 not to mention
 -----
-There are project management features built in:
+There are [project management features](https://github.com/features/projects) built in:
  - set milestones with due dates
  - create issues (you can use this to create a [research to-do list](http://carlboettiger.info/2012/12/06/github-issues-tracker:-the-perfect-research-todo-list))
  - assign issues to people
@@ -67,4 +67,5 @@ more reading
  - [ProfHacker: Resources for learning Git and GitHub](http://chronicle.com/blogs/profhacker/resources-for-learning-git-and-github/48285)
  - [Other ProfHacker posts on GitHub](http://chronicle.com/blogs/profhacker/tag/github)
  - [David Parry: My new way of handling teaching materials](http://academhack.outsidethetext.com/home/2013/my-new-way-of-handling-teaching-materials/)
+ - [Lullabot: Project management with GitHub](http://www.lullabot.com/blog/article/managing-projects-github)
  

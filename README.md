@@ -54,7 +54,7 @@ people:
 
 groups:
  - [GirlDevelopIt: curriculum](https://github.com/girldevelopit)
- - [Church music!](http://www.wired.com/wiredenterprise/2013/05/gregorian_github/)
+ - [Church Music Association of America](http://www.wired.com/wiredenterprise/2013/05/gregorian_github/)
 
 more reading
 -----

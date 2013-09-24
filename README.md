@@ -30,7 +30,7 @@ There are project management features built in:
 
 public vs. private
 -----
-Any public repositories are free.
+[Repositories](https://help.github.com/articles/create-a-repo) ("repos") are collections of files. Any public repositories are free.
 
 Private repos are cheap.
 

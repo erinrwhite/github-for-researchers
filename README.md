@@ -43,6 +43,7 @@ examples of academics on github
 
 more
 -----
+ - [Nice GitHub for Academics presentation](http://kris.shaffermusic.com/githubforacademics/#/5) - if you look at nothing else
  - [ProfHacker: Resources for learning Git and GitHub](http://chronicle.com/blogs/profhacker/resources-for-learning-git-and-github/48285)
  - [Other ProfHacker posts on GitHub](http://chronicle.com/blogs/profhacker/tag/github)
  - [GitHub for academics](http://blogs.lse.ac.uk/impactofsocialsciences/2013/06/04/github-for-academics/)

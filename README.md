@@ -39,7 +39,7 @@ writers/academics on github
  - [GirlDevelopIt: curriculum](https://github.com/girldevelopit)
  - [John Fink: presentations](https://github.com/jbfink?tab=repositories)
  - [Konrad Lawson: notes, dissertation, presentations](https://github.com/kmlawson?tab=repositories)
- - [Lincoln Mullen: R scripts, CV, ebook](https://github.com/lmullen?tab=repositories)
+ - [Lincoln Mullen: R scripts, syllabi, CV, ebook, dissertation](https://github.com/lmullen?tab=repositories)
  - [David Parry: syllabi](https://github.com/academicdave?tab=repositories)
  - [Eric Phetteplace: presentations, snippets, etc](https://github.com/phette23?tab=repositories)
  - [Matthew Reidsma: articles, presentations](https://github.com/mreidsma?tab=repositories)

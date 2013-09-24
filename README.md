@@ -1,13 +1,13 @@
-github for researchers and writers
+git for researchers and writers
 ======================
 
-GitHub is a great tool for researchers and writers. Here's why.
+Git is a great tool for researchers and writers. Here's why.
 
 what it is
 -----
-GitHub is a tool that helps you keep track of revisions in your files and share your work with others.
+Git is a tool that helps you keep track of revisions in your files and share your work with others. GitHub is one website where you can store your repos (a few others include GitLab and Gitboria, available only on Hyperboria).
 
-It's not just for software development. GitHub can version just about any **type** of file - including text, LaTeX, [CSV](https://github.com/blog/1601-see-your-csvs) and [3D graphics](https://github.com/blog/1633-3d-file-diffs).
+It's not just for software development. Git can version just about any **type** of file - including text, LaTeX, [CSV](https://github.com/blog/1601-see-your-csvs) and [3D graphics](https://github.com/blog/1633-3d-file-diffs).
 
 There is a desktop client for [Mac](http://mac.github.com) or [Windows](http://windows.github.com) that you can use to manage your files. There are also tools like [Flashbake](http://bitbucketlabs.net/flashbake/), which automates backup in the background, letting you use the editor of your choice.
 
@@ -37,6 +37,8 @@ Any public repositories are free. Private repos are cheap. There are discounts a
 
 You can also [add a license](https://github.com/blog/1530-choosing-an-open-source-license) to your public content.
 
+Or you can host free repos on sites like [GitLab](http://gitlab.com)
+
 writers/academics on github
 -----
 people:
@@ -54,6 +56,7 @@ people:
  - [Kris Shaffer: articles, presentations](https://github.com/kshaffer?tab=repositories)
  - [Audrey Watters: white papers, CV, guides, syllabi](https://github.com/audreywatters?tab=repositories)
  - [Andromeda Yelton: conference organization, course materials](https://github.com/thatandromeda?tab=repositories)
+ - [Gwen Bell](http://gwenbell.com) Writer, speaker, programmer 
 
 groups:
  - [GirlDevelopIt: curriculum](https://github.com/girldevelopit)

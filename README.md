@@ -35,8 +35,8 @@ public vs. private
 
 writers/academics on github
 -----
+people:
  - [Loren Burton: CV, teaching materials](https://github.com/aguynamedloren?tab=repositories)
- - [GirlDevelopIt: curriculum](https://github.com/girldevelopit)
  - [John Fink: presentations](https://github.com/jbfink?tab=repositories)
  - [Konrad Lawson: notes, dissertation, presentations](https://github.com/kmlawson?tab=repositories)
  - [Lincoln Mullen: R scripts, syllabi, CV, ebook, dissertation](https://github.com/lmullen?tab=repositories)
@@ -48,6 +48,9 @@ writers/academics on github
  - [Kris Shaffer: articles, presentations](https://github.com/kshaffer?tab=repositories)
  - [Audrey Watters: white papers, CV, guides, syllabi](https://github.com/audreywatters?tab=repositories)
 
+groups:
+ - [GirlDevelopIt: curriculum](https://github.com/girldevelopit)
+ - [Church music!](http://www.wired.com/wiredenterprise/2013/05/gregorian_github/)
 
 more
 -----

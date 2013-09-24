@@ -7,7 +7,7 @@ what it is
 -----
 GitHub is a web-based tool that helps you keep track of revisions in your files.
 
-It can version just about any **type** of file - including [CSV's](https://github.com/blog/1601-see-your-csvs) and [3D graphics](https://github.com/blog/1633-3d-file-diffs).
+It's not just for code. GitHub can version just about any **type** of file - including [CSV's](https://github.com/blog/1601-see-your-csvs) and [3D graphics](https://github.com/blog/1633-3d-file-diffs). So you can use it for writing and researching as well as developing software.
 
 There is a desktop client for [Mac](http://mac.github.com) or [Windows](http://windows.github.com) that you can use to manage your files.
 

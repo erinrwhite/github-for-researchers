@@ -71,4 +71,4 @@ more reading
  
 go deeper
 ------
-GitHub is based on [Git](http://git-scm.com/), which is free and open source. GitHub is closed source and but one option of many for hosting your repos. For larger projects, it's worth diving into Git, rather than relying on GitHub. [Why switch to Git?](http://gwenbell.com/gitnotgithub)
+GitHub is based on [Git](http://git-scm.com/), which is free and open source. GitHub is not Git, and Git is not GitHub. GitHub is closed source and but one option of many for hosting your repos. For larger projects, it's worth diving into Git, rather than relying on GitHub. [Why switch to Git?](http://gwenbell.com/gitnotgithub)

@@ -54,9 +54,11 @@ people:
  - [Kris Shaffer: articles, presentations](https://github.com/kshaffer?tab=repositories)
  - [Audrey Watters: white papers, CV, guides, syllabi](https://github.com/audreywatters?tab=repositories)
  - [Andromeda Yelton: conference organization, course materials](https://github.com/thatandromeda?tab=repositories)
+ - [Elliott Hauser:](http://github.com/eah13) ['Professor Jekyll' project for teaching Github](http://github.com/silshack/professorjekyll)
 
 groups:
  - [GirlDevelopIt: curriculum](https://github.com/girldevelopit)
+ - [Mozilla Software Carpentry: curriculum](http://software-carpentry.org/)
  - [Church Music Association of America](http://www.wired.com/wiredenterprise/2013/05/gregorian_github/)
 
 more reading

@@ -69,3 +69,6 @@ more reading
  - [David Parry: My new way of handling teaching materials](http://academhack.outsidethetext.com/home/2013/my-new-way-of-handling-teaching-materials/)
  - [Lullabot: Project management with GitHub](http://www.lullabot.com/blog/article/managing-projects-github)
  
+go deeper
+------
+GitHub is based on [Git](http://git-scm.com/), which is free and open source. GitHub is closed source and but one option of many for hosting your repos. For larger projects, it's worth diving into Git, rather than relying on GitHub. [Why switch to Git?](http://gwenbell.com/gitnotgithub)

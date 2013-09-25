@@ -58,6 +58,7 @@ people:
 
 groups:
  - [GirlDevelopIt: curriculum](https://github.com/girldevelopit)
+ - [Mozilla Software Carpentry: curriculum](http://software-carpentry.org/)
  - [Church Music Association of America](http://www.wired.com/wiredenterprise/2013/05/gregorian_github/)
 
 more reading
